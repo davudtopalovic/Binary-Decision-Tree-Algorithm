@@ -8,4 +8,3 @@ In this repository you can find following files:
 3. First dataset: iris_data.csv
 4. Second dataset: iphone_purchase_records.csv
 
-Here we don't use any library that has predefined code for implementing Decision Trees, instead we code DTC completely from scratch using only libraries such as numpy and pandas.
